@@ -3,6 +3,8 @@
 # Project: WeLoveMovies
 You've been hired on as a back end developer for a new startup called WeLoveMovies! As another developer works on the design and front end experience, you have been tasked with setting up a database and building out specific routes so that users can gain access to data about movies, theaters, and reviews.
 
+![image](https://user-images.githubusercontent.com/70423522/116483801-cb370800-a855-11eb-9d72-6bc6b9881d3d.png)
+
 This project is designed to test your ability to both build complex servers and access data through a database. To succeed at this project, you'll need to demonstrate you can do the following:
 
 * Install and use common middleware packages.
